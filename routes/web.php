@@ -12,4 +12,4 @@ Route :: get('/kkk', function () {
     echo "<br>";
      echo("<p>tava atsauksme:</p>". $_GET["text"]); 
     
-});
+}); 

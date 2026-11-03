@@ -14,7 +14,7 @@
     }
     echo "</ol>";
     ?>
-    <form action="" method="get" class="form-example">
+    <form action="kkk" method="get" class="form-example">
   <div class="form-example">
     <label for="name">Ievadi vārdu: </label>
     <input type="text" name="name" id="name" required />
