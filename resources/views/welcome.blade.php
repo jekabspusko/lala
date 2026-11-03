@@ -15,23 +15,23 @@
     echo "</ol>";
     ?>
     <form action="kkk" method="get" class="form-example">
-  <div class="form-example">
-    <label for="name">Ievadi vārdu: </label>
-    <input type="text" name="name" id="name" required />
-  </div>
-  <div class="form-example">
-    <label for="email">Ievadi epastu: </label>
-    <input type="email" name="email" id="email" required />
-  </div>
+        <div class="form-example">
+            <label for="name">Ievadi vārdu: </label>
+            <input type="text" name="name" id="name" required />
+        </div>
+        <div class="form-example">
+            <label for="email">Ievadi epastu: </label>
+            <input type="email" name="email" id="email" required />
+        </div>
 
-  <label for="story">Kapēc vēlies sekot?:</label>
+        <label for="story">Kapēc vēlies sekot?:</label>
 
-<textarea id="story" name="story" rows="5" cols="30">
-Es sekoju jo,
-</textarea>
-  <div class="form-example">
-    <input type="submit" value="Seko!" />
-  </div>
-</form>
+        <textarea id="story" name="story" rows="5" cols="30">
+        Es sekoju jo,
+        </textarea>
+        <div class="form-example">
+            <input type="submit" value="Seko!" />
+        </div>
+    </form>
 </body>
 </html>

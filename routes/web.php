@@ -10,6 +10,6 @@ Route :: get('/kkk', function () {
     echo "<br>";
      echo("<p>tavs epasts:</p>". $_GET["email"]);
     echo "<br>";
-     echo("<p>tava atsauksme:</p>". $_GET["text"]); 
+    echo("<p>tava atsauksme:</p>". $_GET["story"]); 
     
 }); 
